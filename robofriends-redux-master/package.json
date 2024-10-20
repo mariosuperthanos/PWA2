@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mariosuperthanos.github.io/PWA",
+  "homepage": "https://mariosuperthanos.github.io/PWA2",
   "dependencies": {
     "gh-pages": "^6.2.0",
     "react": "^18.3.1",
